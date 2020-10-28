@@ -3,3 +3,7 @@ Sistemas Cibertec
 Jorge jacinto
 
 Sistema del colegio 122
+
+Este sistema permite la matrícula de los alumnos
+
+
